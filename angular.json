@@ -27,7 +27,7 @@
               "dayjs",
               "lz-string"
             ],
-            "outputPath": "dist",
+            "outputPath": "dist/browser",
             "index": "src/main.html",
             "browser": "src/main.ts",
             "polyfills": ["zone.js"],
